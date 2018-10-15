@@ -1,7 +1,7 @@
 # Communication_Cpp
 C++版本的一些通讯,  Socket TCP/UDP  SerialPort  ModbusDll
 
-1.Modbus是搜集到的C++ WIN32的dll库，文件夹里附有dll和使用说明
+1.Modbus是C++ WIN32的dll库，文件夹里附有dll和使用说明
 
 
 2.SerialPort为C++版本,包含write read数据.
